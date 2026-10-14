@@ -1,0 +1,10 @@
+{
+  "name": "Companion",
+  "short_name": "Companion",
+  "description": "Talk naturally with a friendly animated AI companion.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0e17",
+  "theme_color": "#0f0e17",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
